@@ -11,3 +11,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Eat your food
+- [x] Sleep for ten hours
+- [ ] Read your book
